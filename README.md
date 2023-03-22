@@ -1,4 +1,6 @@
-# SSL-Cifar10-ContrastiveLearning_pytorch
+# SSL-Cifar10-ContrastiveLearning
+- Pytorch Implementation
+
 
 For the original paper, please refer to the link https://arxiv.org/abs/2002.05709
 
