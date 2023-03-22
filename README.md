@@ -5,7 +5,7 @@ For the original paper, please refer to the link https://arxiv.org/abs/2002.0570
 
 This project is a replication of SimCLR model on Cifar10 dataset. Due to limitations of computational resources, I have used 10000 images to train the model (1000 images per class). I trained the model (ResNet-50) for 500 episodes. 
 
-- Fine-tuned pre-trained model with different proportions of labeled data for 30 episodes. --> 1%-10%-30%-50%
+- Fine-tuned pre-trained model with varying percentages of labeled data for 30 episodes. --> 1%-10%-30%-50%
 
 - Even the model is not fully trained, there is a remarkable development between different t-SNE graphs of                                    
   Randomly Initialized Network  - Network trained for 375 episodes -  Network trained for 500 episodes.
