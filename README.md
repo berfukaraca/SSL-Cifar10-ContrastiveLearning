@@ -18,16 +18,16 @@ This project is a replication of SimCLR model on Cifar10 dataset. Due to limitat
 
 | % Label | Accuracy  | 
 |  :---:  |   :---:   |
-|  1 %    |   48.44%  |
-| 10 %    |   71.09%  |
-| 30 %    |   74.53%  |
-| 50 %    |   76.55%  |
+|  1 %    |   47.30%  |
+| 10 %    |   71.33%  |
+| 30 %    |   74.75%  |
+| 50 %    |   76.42%  |
 
 - Fine-tuning: best validation accuracies of pre-trained model (500 episodes)
 
 | % Label | Accuracy  | 
 |  :---:  |   :---:   |
-|  1 %    |   50.07%  |
-| 10 %    |   72.97%  |
-| 30 %    |   76.32%  |
-| 50 %    |   78.2%   |
+|  1 %    |   50.21%  |
+| 10 %    |   72.68%  |
+| 30 %    |   76.82%  |
+| 50 %    |   78.06%   |
