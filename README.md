@@ -18,8 +18,8 @@ This project is a replication of SimCLR model on Cifar10 dataset. Due to limitat
 
 | % Label | Accuracy  | 
 |  :---:  |   :---:   |
-|  1 %    |   47.30%  |
-| 10 %    |   71.33%  |
+|  1 %    |   47.30%  |         
+| 10 %    |   71.33%  | 
 | 30 %    |   74.75%  |
 | 50 %    |   76.42%  |
 
@@ -30,4 +30,8 @@ This project is a replication of SimCLR model on Cifar10 dataset. Due to limitat
 |  1 %    |   50.21%  |
 | 10 %    |   72.68%  |
 | 30 %    |   76.82%  |
-| 50 %    |   78.06%   |
+| 50 %    |   78.06%  |
+
+<img width="1031" alt="image" src="https://user-images.githubusercontent.com/87897577/227078015-f0a05e94-ca20-447b-9af6-f473bb8e0760.png">
+
+
