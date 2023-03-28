@@ -32,6 +32,9 @@ This project is a replication of SimCLR model on Cifar10 dataset. Due to limitat
 | 30 %    |   76.82%  |
 | 50 %    |   78.06%  |
 
-<img width="1031" alt="image" src="https://user-images.githubusercontent.com/87897577/227078015-f0a05e94-ca20-447b-9af6-f473bb8e0760.png">
+<!-- <img width="1031" alt="image" src="https://user-images.githubusercontent.com/87897577/227078015-f0a05e94-ca20-447b-9af6-f473bb8e0760.png"> -->
+<!-- <p align="center"> -->
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/87897577/228304333-04a8e920-96d1-421c-9267-5517e427e760.png">
+<!-- </p> -->
 
 
